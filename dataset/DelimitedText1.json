@@ -13,6 +13,7 @@
 				"container": "allan"
 			},
 			"columnDelimiter": ",",
+			"rowDelimiter": "\n",
 			"escapeChar": "\\",
 			"quoteChar": "\""
 		},
