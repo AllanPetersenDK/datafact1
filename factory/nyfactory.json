@@ -1,0 +1,9 @@
+{
+	"name": "nyfactory",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c2252031-2aeb-4bd4-80c1-08204399c75d",
+		"tenantId": "8a38b7b4-1031-4d1f-82a8-41e6db9da265"
+	}
+}
